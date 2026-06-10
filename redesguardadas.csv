@@ -1,0 +1,8 @@
+WifiNetwork{SSID='SB Guest', autenticacion='WPA3-Personal', canal=36, señal=87, banda='5 GHz'}
+WifiNetwork{SSID='FARO', autenticacion='WPA2-Personal', canal=6, señal=85, banda='5 GHz'}
+WifiNetwork{SSID='Servibyte', autenticacion='WPA3-Personal', canal=40, señal=83, banda='2,4 GHz'}
+WifiNetwork{SSID='MOVISTAR_PLUS_4850', autenticacion='WPA2-Personal', canal=116, señal=82, banda='5 GHz'}
+WifiNetwork{SSID='MOVISTAR-WIFI6-4850', autenticacion='WPA2-Personal', canal=116, señal=82, banda='5 GHz'}
+WifiNetwork{SSID='SB Guest', autenticacion='WPA3-Personal', canal=40, señal=81, banda='2,4 GHz'}
+WifiNetwork{SSID='MOVISTAR-WIFI6-4850', autenticacion='WPA2-Personal', canal=116, señal=70, banda='2,4 GHz'}
+WifiNetwork{SSID='MIWIFI_pFYt', autenticacion='WPA2-Personal', canal=1, señal=18, banda='5 GHz'}
