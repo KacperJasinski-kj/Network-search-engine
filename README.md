@@ -37,5 +37,7 @@
 
 <p>Feel free to contribute to the project by submitting pull requests or reporting issues on the GitHub repository.</p>
 
-<p><b>Contact: </b> kacperjasinskibusiness@gmail.com</p>
+### Contact
+If you have any questions or suggestions, feel free to contact me at [kacperjasinskibusiness@gmail.com](mailto:kacperjasinskibusiness@gmail.com).
+
 <p><b>Made by: </b> Kacper Jasinski</p>
